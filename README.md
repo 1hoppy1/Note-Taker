@@ -18,9 +18,7 @@ This application creates, displays, and retrieves notes in an organized way.
 
 https://jim-note-taker.herokuapp.com/
 
-front-end deployed at GitHub: https://1hoppy1.github.io/Note-Taker/
-
-back-end depoloyed at Heroku: https://dashboard.heroku.com/apps/jim-note-taker
+front-end deployed at GitHub: https://github.com/1hoppy1/Note-Taker
 
 ## License
 
